@@ -17,7 +17,7 @@ IMAGE_PATH = "scripts/image.png"
 DATA_COLLECTION_SCRIPT = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/data_collection.py"
 DATABASE_UPDATE_SCRIPT = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/database_asistencias.py"
 CLIENTES_UPDATE_SCRIPT = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/data_collection_clientes.py"
-DB_PATH = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/data/asistencias.db"
+DB_PATH = "data/asistencias.db"
 CLIENTES_DB_PATH = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/data/clientes_mbw.db"
 
 # Configurar la imagen de fondo
