@@ -13,7 +13,7 @@ st.set_page_config(page_title='Dashboard de Asistencias MBW', page_icon='📊', 
 PYTHON_PATH = "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3"
 
 # Rutas de las imágenes y scripts
-IMAGE_PATH = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/image.png"
+IMAGE_PATH = "scripts/image.png"
 DATA_COLLECTION_SCRIPT = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/data_collection.py"
 DATABASE_UPDATE_SCRIPT = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/database_asistencias.py"
 CLIENTES_UPDATE_SCRIPT = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/scripts/data_collection_clientes.py"
