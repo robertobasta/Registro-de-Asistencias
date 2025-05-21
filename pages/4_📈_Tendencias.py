@@ -10,7 +10,7 @@ st.set_page_config(page_title='📈 Tendencias y Predicciones', page_icon='📊'
 st.title("📈 Tendencias y Predicciones")
 
 # Ruta de la base de datos
-DB_ASISTENCIAS_PATH = "/Users/robertobastarracheamedina/Desktop/MBW STUFF/CODIGO MBW/Registro de Asistencias/data/asistencias.db"
+DB_ASISTENCIAS_PATH = "data/asistencias.db"
 
 # Conectar a la base de datos
 conn = sqlite3.connect(DB_ASISTENCIAS_PATH)
